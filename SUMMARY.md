@@ -19,8 +19,9 @@
 
 ## 进阶指南
 
-* [1 氢舟如何帮创作者变现](jin-jie-zhi-nan/qing-zhou-ru-he-bang-chuang-zuo-zhe-bian-xian.md)
-* [2 5种会员权益设计推荐](jin-jie-zhi-nan/5-zhong-hui-yuan-quan-yi-she-ji-tui-jian.md)
+* [😀 氢舟如何帮创作者变现](jin-jie-zhi-nan/qing-zhou-ru-he-bang-chuang-zuo-zhe-bian-xian.md)
+* [😁 5种会员权益设计推荐](jin-jie-zhi-nan/5-zhong-hui-yuan-quan-yi-she-ji-tui-jian.md)
+* [Page 1](jin-jie-zhi-nan/page-1.md)
 
 ## 获取收入
 
