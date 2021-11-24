@@ -14,8 +14,9 @@
 
 ## 作品发布
 
-* [🆓 免费/付费内容](zuo-pin-fa-bu/mian-fei-fu-fei-nei-rong.md)
-* [🆕 保存草稿/定时发布](zuo-pin-fa-bu/bao-cun-cao-gao-ding-shi-fa-bu.md)
+* [📧 会员订阅内容](zuo-pin-fa-bu/hui-yuan-ding-yue-nei-rong.md)
+* [🪙 零售作品](zuo-pin-fa-bu/ling-shou-zuo-pin.md)
+* [⏱ 保存草稿/定时发布](zuo-pin-fa-bu/bao-cun-cao-gao-ding-shi-fa-bu.md)
 
 ## 经营管理
 
