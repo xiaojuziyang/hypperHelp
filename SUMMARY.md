@@ -14,7 +14,7 @@
 
 ## 作品发布
 
-* [📧 会员订阅](zuo-pin-fa-bu/hui-yuan-ding-yue.md)
+* [📧 会员订阅](zuo-pin-fa-bu/hui-yuan-ding-yue-nei-rong.md)
 * [🪙 零售作品](zuo-pin-fa-bu/ling-shou-zuo-pin.md)
 * [⏱ 保存草稿/定时发布](zuo-pin-fa-bu/bao-cun-cao-gao-ding-shi-fa-bu.md)
 
@@ -43,4 +43,4 @@
 ## 获得帮助
 
 * [📞 联系我们](huo-de-bang-zhu/lian-xi-wo-men.md)
-* [🤝 特别鸣谢](huo-de-bang-zhu/te-bie-ming-xie.md)
+* [🤝 特别鸣谢](huo-de-bang-zhu/qing-zhou-gong-chuang-qun.md)
