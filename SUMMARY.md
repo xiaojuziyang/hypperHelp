@@ -14,7 +14,7 @@
 
 ## 作品发布
 
-* [📧 会员订阅/零售作品](zuo-pin-fa-bu/hui-yuan-ding-yue-ling-shou-zuo-pin.md)
+* [📧 会员订阅/零售作品](zuo-pin-fa-bu/hui-yuan-ding-yue-nei-rong.md)
 * [⏱ 保存草稿/定时发布](zuo-pin-fa-bu/bao-cun-cao-gao-ding-shi-fa-bu.md)
 
 ## 经营管理
