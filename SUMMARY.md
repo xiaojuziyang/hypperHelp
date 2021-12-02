@@ -9,8 +9,8 @@
 
 ## 创作攻略
 
-* [✍ 图文发布](chuang-zuo-gong-lve/tu-wen-fa-bu.md)
-* [🎶 音频发布](chuang-zuo-gong-lve/yin-pin-fa-bu.md)
+* [✍ 图文作品](chuang-zuo-gong-lve/tu-wen-zuo-pin.md)
+* [🎶 音频作品](chuang-zuo-gong-lve/yin-pin-zuo-pin.md)
 
 ## 作品发布
 
