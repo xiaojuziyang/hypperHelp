@@ -30,14 +30,13 @@
 
 ## 获取收入
 
-* [💫 分享作品/请朋友读](huo-qu-shou-ru/fen-xiang-zuo-pin-qing-peng-you-du.md)
+* [📤 送朋友读](huo-qu-shou-ru/song-peng-you-du.md)
 * [💰 提现规则与服务费](huo-qu-shou-ru/ti-xian-gui-ze-yu-fu-wu-fei.md)
 
 ## 订阅用户Q\&A
 
 * [📖 如何查看已订阅](ding-yue-yong-hu-qa/ru-he-cha-kan-yi-ding-yue.md)
 * [🔐 账号相关](ding-yue-yong-hu-qa/zhang-hao-xiang-guan.md)
-* [📤 请朋友读](ding-yue-yong-hu-qa/qing-peng-you-du.md)
 
 ## 获得帮助
 
