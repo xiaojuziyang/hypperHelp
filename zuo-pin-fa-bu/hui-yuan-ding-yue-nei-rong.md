@@ -4,12 +4,12 @@
 
 如需发布零售作品，请在售卖方式选框中，勾选【付费——零售——并填写零售价格】。
 
-![](broken-reference)
+![](../.gitbook/assets/5零售01.png)
 
 同一篇作品，也可以被同时设置为【付费订阅可看】和【零售作品】。
 
-![](broken-reference)
+![](../.gitbook/assets/5零售02.png)
 
 内容发布后，订阅者将同时看到如下两个提示，我们会优先推荐用户**【订阅成为会员】**。
 
-![](broken-reference)
+![](../.gitbook/assets/5零售03.png)
