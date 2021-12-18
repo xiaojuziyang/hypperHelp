@@ -4,11 +4,11 @@
 
 进入【创作者后台】，点击【订阅者管理】。
 
-![](broken-reference)
+![](../.gitbook/assets/8订阅管理01.png)
 
 进入【订阅者管理】详情页后，可以查看总订阅人数、付费订阅人数等详细数据。
 
-![](broken-reference)
+![](../.gitbook/assets/8订阅管理02.png)
 
 更多订阅者管理功能持续上线中……
 
@@ -16,10 +16,10 @@
 
 进入【创作者后台】，点击【交易管理】。
 
-![](broken-reference)
+![](../.gitbook/assets/8交易管理01.png)
 
 进入【交易管理】详情页后，可以查看累计收益、本月收益、可提现金额等。
 
-![](broken-reference)
+![](../.gitbook/assets/8交易管理02.png)
 
 更多交易管理功能和经营数据，持续上线中……
