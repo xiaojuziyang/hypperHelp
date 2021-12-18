@@ -4,21 +4,21 @@
 
 欢迎关注微信公众号「氢舟创作者」
 
-![](../.gitbook/assets/氢舟Hypper搜一搜.png)
+![](broken-reference)
 
 欢迎添加创作者运营支持——氢舟小鲸🐳  （微信号：pathway2020）
 
-![](../.gitbook/assets/小鲸企微.png)
+![](broken-reference)
 
 ### 订阅者服务：
 
 欢迎关注微信公众号「氢舟旅客」
 
-![](../.gitbook/assets/扫码\_搜索联合传播样式-标准色版.png)
+![](broken-reference)
 
 欢迎添加订阅用户专属客服——氢舟客服小鸥（微信号：hypper2021）
 
-![](../.gitbook/assets/小鸥企微.png)
+![](broken-reference)
 
 ### 在其他平台找到我们：
 
