@@ -27,6 +27,7 @@
 * [🤔 氢舟如何帮创作者变现](jin-jie-zhi-nan/qing-zhou-ru-he-bang-chuang-zuo-zhe-bian-xian.md)
 * [🥳 5种会员权益设计推荐](jin-jie-zhi-nan/5-zhong-hui-yuan-quan-yi-she-ji-tui-jian.md)
 * [🎧 播客制作人的16项权益推荐](jin-jie-zhi-nan/bo-ke-zhi-zuo-ren-de-16-xiang-quan-yi-tui-jian.md)
+* [📔 图文创作者如何在氢舟变现](jin-jie-zhi-nan/tu-wen-chuang-zuo-zhe-ru-he-zai-qing-zhou-bian-xian.md)
 
 ## 获取收入
 
